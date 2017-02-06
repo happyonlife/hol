@@ -1,0 +1,4 @@
+﻿Vai avanti di 1!
+Vai avanti di 2!
+Torni indietro di 1!
+Torni indietro di 2!

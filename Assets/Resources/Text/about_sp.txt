@@ -1,0 +1,11 @@
+﻿<size=30>Acerca de Happy Onlife</size>
+
+Este juego nació al comprobar que niños y adultos comparten poco sus experiencias con las nuevas tecnologías. Por un lado los adultos usan estas nuevas herramientas como apoyo esencial para su trabajo y sus comunicaciones, tanto profesionales como privadas, mientras que los niños de 8 a 12 años pasan la mayor parte de su tiempo en línea de modo recreacional, incluso si utilizan internet como fuente de información y apoyo imprescindible a su aprendizaje. La edad de la preadolescencia es aquella de la construcción de identidad en el grupo, que hoy en día está cambiando con la llegada de las redes sociales y de la mensajería instantánea. Este juego – una mezcla entre el juego de la oca y las preguntas de opción múltiple – ofrece una actividad ideal de introducción, de unos 20 minutos, para promover los intercambios y las reflexiones entre niños y adultos, sobre la experiencia del mundo digital y las estrategias de su uso equilibrado, seguro y respetuoso.
+
+El juego tiene reglas simples y es fácil de implementar. Su dinámica se  basa en juegos conocidos por todos: el tradicional juego de la oca y preguntas de opción múltiple. La presencia de un adulto como moderador del juego, aunque no sea esencial, es necesaria para alcanzar los objetivos de concienciación y de intercambio intergeneracional. Para el resto, sólo hace falta seguir las reglas del juego y divertirse mientras se aprende.
+
+<size=30>Background</size>
+
+Con el fin de apoyar el programa de trabajo “Better Internet for Kids (BIK)” de la DG CNECT, los investigadores del CCI han estado investigando el fenómeno del ciberacoso desde 2011 como una forma de acoso que está emergiendo rápidamente con el uso invasivo y generalizado de las Tecnologías de la Información y Comunicación. Los investigadores del CCI han creado materiales para concienciar y promover la confianza así como para conferir conocimiento a niños, familias y escuelas con el objectivo de fomentar una vida en línea sana y equilibrada y ayudar a prevenir el ciberacoso entre los adolescentes.  
+
+Version 1.0 (Build 2004)

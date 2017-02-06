@@ -1,0 +1,16 @@
+﻿T01C01=RESTA CONNESSO!
+C01C01=Posta con la testa! Pensa prima di pubblicare, ogni cosa pubblicata in internet rimane per sempre. Non scrivere mai qualcosa che non avresti detto in faccia.
+C02C01=Cura la tua reputazione digitale! Fai attenzione a quello che si dice, si pubblica e si condivide sul web.
+C03C01=Attenzione alle truffe! Pop-up e pubblicità sono spesso trucchi per farti spendere soldi con un solo click! Chiudili con la crocetta immediatamente!
+T01C02=BLOCCA IL BULLO ON-LINE!
+C01C02=Se ti senti a disagio rispetto a qualcosa che avviene on-line, chiedi aiuto! Parlane ai tuoi genitori o a un adulto di cui hai fiducia! C'è anche il Telefono Azzurro al 114.
+C02C02=Mantieni la calma, non rispondere alle provocazioni e tieni traccia dei messaggi minacciosi per poterti difendere.
+C03C02=Se sei testimone di un atto di (cyber)bullismo, agisci! Riferiscilo a un adulto di fiducia.
+T01C03=GIOCA SICURO!
+C01C03=Divertiti senza danneggiare gli altri! Porta la gentilezza e la cortesia anche on-line!
+C02C03=Inventa un nome di fantasia per i tuoi giochi in rete! 
+C03C03=Rispetta te stesso! Non lasciare che il gioco decida per te. Fissa un tempo di gioco e rispettalo.
+T01C04=IN GUARDIA!
+C01C04=Incontrare qualcuno che hai conosciuto soltanto in rete può essere pericoloso! Prima di tutto, parlane con i tuoi genitori e fatti accompagnare!
+C02C04=Su internet non è tutto vero! Visita diversi siti per verificare l'informazione!
+C03C04=Prendi cura dei tuoi dati personali! Non indicare il tuo nome, indirizzo, numero di telefono, scuola.

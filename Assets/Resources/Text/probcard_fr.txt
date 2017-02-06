@@ -1,0 +1,4 @@
+﻿Avance d’une case !
+Avance de deux cases !
+Recule d’une case !
+Recule de deux cases !

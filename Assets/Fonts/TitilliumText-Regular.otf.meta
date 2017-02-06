@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 00ee3006b091ef749ae00095d3a0670f
+timeCreated: 1479399774
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TitilliumText
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b4bb1bd8794fbc1438565e449129bd09, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 

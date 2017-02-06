@@ -1,0 +1,4 @@
+﻿¡Tienes suerte! ¡Avanzas una casilla!
+¡Tienes suerte! ¡Avanzas dos casillas!
+¡Qué mala suerte! ¡Vas hacia atrás una casilla!
+¡Qué mala suerte! ¡Vas hacia atrás dos casillas!

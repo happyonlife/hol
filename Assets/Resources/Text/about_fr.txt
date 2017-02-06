@@ -1,0 +1,16 @@
+﻿<size=30>A propos du Happy Onlife</size>
+
+Ce jeu est né de la constatation que les enfants et les adultes partagent peu leurs expériences avec les nouvelles technologies. Si, d’une part, les adultes utilisent ces nouveaux outils comme support essentiel pour leur travail et leurs communications, à la fois professionnelles et privées, les enfants de 8 à 12 ans, même s’ils utilisent internet comme source d’information et support indispensable à leur apprentissage, passent la plupart de leur temps en ligne en utilisant des activités ludiques. L’âge de la préadolescence est l’âge de la construction d’identité au sein du groupe, qui est aujourd’hui en pleine mutation avec l’arrivée des réseaux sociaux et de la messagerie instantanée. Ce jeu – un mélange entre le jeu de l’oie et des questions à choix multiples (QCM) – offre une activité idéale d’introduction, d’environ 20 minutes, qui favorise les échanges et les réflexions entre enfants et adultes, sur l’expérience du monde numérique et sur les stratégies de son utilisation équilibrée, sûre et respectueus.
+
+Le jeu a des règles simples et est facile à mettre en œuvre. Ses dynamiques sont basées sur des jeux connus de tous : le traditionnel jeu de l’oie et des questions à choix multiples. La présence d’un adulte en tant que modérateur du jeu, bien que non indispensable, est nécessaire pour atteindre les objectifs de sensibilisation et d’échange intergénérationnel de l’activité. Pour le reste, il suffit de suivre les règles du jeu et de s’amuser tout en apprenant. 
+
+En plus de cette application, le jeu est disponible en version jeu de société en italien et en anglais, directement téléchargeable depuis la page web du JRC Science Hub. 
+https://ec.europa.eu/jrc/en/scientific-tool/happy-onlife-game-raise-awareness-internet-risks-and-opportunities).
+
+
+
+<size=30>Background</size>
+
+Afin de soutenir le programme ‘Better Internet for Kids’ de la DG CNECT de la Commission Européenne, les chercheurs du JRC étudient le phénomène du cyber-harcèlement depuis 2011, phénomène aussi rapide et diffus que les nouvelles technologies elles-mêmes. Les chercheurs du JRC ont produit des outils de sensibilisation pour responsabiliser et outiller enfants, parents et écoles dans la prévention du cyber-harcèlement entre jeunes et la recherche d’une mode de vie en ligne équilibré. 
+
+Version 1.0 (Build 2004)

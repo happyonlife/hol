@@ -1,0 +1,16 @@
+﻿T01C01=LET’S CHAT!
+C01C01=Post mindfully! Think before posting, everything you post on Internet remains forever. Do not write anything you would not say to someone’s face. 
+C02C01=Mind your digital reputation! Pay attention to what is said, posted and shared on the web.
+C03C01=Beware of scams! Pop-ups or ads are often tricks to get you to spend money with a single click! Close them with the cross icon immediately!
+T01C02=STOP ONLINE BULLYING!
+C01C02=If you feel uneasy with something happening online, ask for help! Talk to your parents or to an adult you trust! There is also the charity Childline at 0800 1111,  childline.org.uk in the UK or 1800 66 66 66 66 and childline.ie in Ireland.
+C02C02=Keep calm, do not respond to provocation and track/save threatening messages to be able to possibly show to the judiciary in case of investigations.
+C03C02=If you witness an incident of (cyber) bullying, act! Report it to a trusted adult.
+T01C03=PLAY SAFELY!
+C01C03=Enjoy yourself without harming others! Bring kindness and courtesy even online!
+C02C03=Defend your privacy! Think up an unlinkable pseudonymous nickname for your games on the web!
+C03C03=Respect yourself! Do not let the game decide for you. Set a playing time and respect it.
+T01C04=WATCH OUT!
+C01C04=Meeting with someone you only came to know via the web can be dangerous! First of all, talk to your parents and have them come with you!
+C02C04=On the Internet, what you see is often not completely true! Visit various sites to check information!
+C03C04=Take care of your personal data! Do not disclose your name, address, phone number, school.

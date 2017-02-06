@@ -1,0 +1,16 @@
+﻿T01C01=Reste connecté(e)!
+C01C01=Penses y à deux fois avant de poster un message en ligne! Tout ce que tu publies sur Internet y reste pour toujours. N’écrits rien que tu ne dirais en face à face.
+C02C01=Prends soin de ta réputation en ligne! Fais attention à ce qui est dit, posté et partagée sur le web.
+C03C01=Attention aux arnaques! Pop-ups ou annonces sont souvent des astuces pour te pousser à dépenser de l'argent en un seul clic! Ferme les en cliquant sur l'icône en croix immédiatement!
+T01C02=Stop au cyber-harcèlement!
+C01C02=Si tu te sens mal à l'aise par rapport à quelque chose qui se passe en ligne,demande de l'aide!Parles-en à tes parents ou à un adulte de confiance!Childfocus 116 000,numéro d’urgence gratuit, 24/24,7/7. www.116000.be peut aussi t’aider.
+C02C02=Garde ton calme ! Ne réponds pas à la provocation, conserve  les messages menaçant pour pouvoir les montrer éventuellement à la justice en cas d'enquête.
+C03C02=Si tu es témoin d'un incident de (cyber) harcèlement, agis! Signale-le à un adulte de confiance.
+T01C03=Joue en sécurité!
+C01C03=Amuse-toi sans nuire à d'autres! Cultive la gentillesse et la courtoisie même en ligne!
+C02C03=Défends ta vie privée! Pour tes  jeux en ligne, pense à te créer un pseudonymes/surnom impossible à corréler avec ton identité.
+C03C03=Respecte-toi! Ne laisse pas le jeu décider pour toi. Définis un temps de jeu et respecte-le.
+T01C04=En garde!
+C01C04=Rencontrer quelqu'un que tu ne connais que via le Web peut-être dangereux! Parles-en à tes parents d’abord et allez-y ensemble.
+C02C04=Ce que tu trouves sur Internet n’est pas toujours vrai! Visite différents sites pour vérifier l'information.
+C03C04=Prends soin de tes données personnelles! Ne divulgue pas ton nom, adresse, numéro de téléphone, l'école en ligne. 

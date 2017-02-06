@@ -1,0 +1,34 @@
+﻿Happy Onlife est un jeu amusant et entrainant pour les enfants et jeunes à partir de 8 ans. Il est aussi recommandé pour les adultes.
+Le jeu promeut les règles d’or pour un usage d’internet sécuritaire et respectueux. 
+
+<size=24>Eléments du jeu</size>
+- 1 dé
+- Un jeu de cartes ‘Challenge’ divisée en quatre catégories : ‘Reste Connecté(e) !’,  ‘Stop au Cyber-harcèlement !’, ‘En Garde !’ et ‘Joue en Sécurité !’
+- Des cartes ‘Anti-virus !’
+- Un jeu de carte ‘Evènement’ : les cartes de ‘Mouvement’, les cartes ‘Chance’ (ou malchance) 
+- Un plateau de jeu
+- 6 couleurs d’avatar
+
+<size=24>Le but du jeu</size>
+Le but du jeu est d’être le premier à arriver sur la case ‘Finish’ tout en répondant correctement aux différentes questions des cartes ‘Challenge’.
+
+<size=24>Les joueurs</size>
+Le jeu peut être joué en mode single ou multiplayer (max. 2 joueurs). Un adulte peut interagir avec les joueurs comme modérateur. Les joueurs peuvent aussi être des équipes composées de de 2 ou 3 personnes.
+
+<size=24>Commencer le jeu</size>
+- Chaque joueur choisit la couleur de son avatar qui est ensuite placé sur la case départ du plateau de jeu. 
+- Les joueurs jouent chacun à leur tour. 
+- Le premier joueur commence la partie en faisant rouler le dé et son avatar avance d’un nombre de case égale à celui donné par le dé. C’est ensuite le tour du second joueur qui procède de la même façon. 
+
+
+<size=24>Si le joueur s’arrête sur</size>
+- Une case marquée d’un des symboles des cartes ‘Challenge’ : ‘Reste Connecté(e) !’,  ‘Stop au Cyber-harcèlement !’, ‘En Garde !’ et ‘Joue en Sécurité !’, une question apparait sur l’écran et le joueur essaye d’y répondre. Si la réponse n’est pas la bonne, le joueur a une deuxième chance de répondre. Si la réponse est encore incorrecte, l’avatar du joueur est placé sur la case ‘STOP’ adjacente à la case ‘Challenge’ afin de prendre le temps de la réflexion. Le joueur repartira de cette case au tour suivant. 
+- Une case marquée des symboles des cartes ‘Evènement’ : cartes ‘Mouvement’ et ‘Chance’. Une situation apparaîtra sur l’écran et le joueur recevra ou perdra des points, avancera ou reculera de case, suivant celle-ci. 
+- Une case ‘Anti-Virus’. Félicitations! Le joueur reçoit une carte ‘Anti-Virus’ qui lui sera utile s’il tombe sur une case ‘Virus’ (case 11 et 26) 
+- Une case ‘Virus’, où le joueur est attaqué par un virus informatique. Il(elle) doit reconfigurer sont matériel et perd un tour, à moins d’avoir en sa possession une carte ‘Anti-Virus’ (acquise en case 4 ou 19) 
+
+
+<size=24>Notes</size>
+- Lorsqu’un joueur s’arrête sur la case 8, le temps d’attente peut-être plus long. Suivez les flèches. 
+- La case ‘Jump to 10’ permet au joueur de se déplacer directement à la case 10. 
+- Lors d’une partie, si le joueur répond correctement à deux questions de la même catégorie en suivant, le joueur reçoit la Powercard de cette catégorie et des points bonus. 

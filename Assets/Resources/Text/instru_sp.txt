@@ -1,0 +1,34 @@
+﻿Este es un juego divertido e intrigante para niños y jóvenes a partir de los 8 años.  También se recomienda para los adultos. 
+El juego promueve las reglas de oro para un uso seguro y adecuado de internet.
+
+<size=24>Componentes del juego</size>
+- 1 dado
+- Un juego de cartas “Challenge” en cuatro categorías: cartas “¡VAMOS A CHATEAR!”, “¡NO AL CIBERACOSO!”, “¡CUIDADO!” y “¡JUEGA SEGURO!”
+- Cartas “Antivirus”
+- Cartas “Event”: “Mover” y “Suerte”
+- Cartas “Powercards” que resumen las reglas de oro para una vida online sana y feliz (“Happy Onlife”). 
+- 1 tablero
+- 6 avatares de color
+
+<size=24>Objetivo del juego</size>
+El objetivo del juego es ser el primero en llegar a la última casilla, respondiendo correctamente las diferentes preguntas de las cartas “Challenge”.
+
+<size=24>Players</size>
+El juego se puede jugar en modo individual o multijugador (con un máximo de dos jugadores). Si un adulto está disponible, puede actuar como moderador. Se tiene que tener en cuenta que los jugadores pueden ser individuales o equipos de 2 o 3 jugadores cada uno.
+
+<size=24>Jugadores</size>
+- Cada jugador elige un avatar y se coloca en la casilla de inicio del tablero. 
+- Los jugadores juegan por turnos. 
+- El primer jugador comienza el juego tirando los dados y avanza su avatar tantas casillas como indique el dado.
+- Después, el jugador da el turno al segundo jugador que a su vez jugará de la misma manera. 
+
+<size=24>Cuando el jugador cae</size>
+- En las casillas con el símbolo de las cartas “Challenge”: “¡VAMOS A CHATEAR!”, “¡NO AL CIBERACOSO!”, “¡CUIDADO!” y “¡JUEGA SEGURO!”, aparece una pregunta “Challenge” y el jugador desafiado intenta responder. Si la respuesta es incorrecta, el jugador tendrá una segunda oportunidad para responder. Si la respuesta dada sigue siendo incorrecta, se colocará el avatar del jugador desafiado en la casilla STOP al lado de la casilla “Challenge” para que piense su respuesta. El jugador empezará a jugar desde ese lugar en el siguiente turno.
+- En las casillas con el símbolo de las cartas “Event”: “Mover” y “Suerte”, aparece el mensaje “Event” y el jugador recibirá una recompensa o una penalización en forma de puntos extra/de menos o avanzar/retroceder casillas.
+- Casilla “Antivirus”: ¡Enhorabuena! El jugador recibe una carta “Antivirus”, que puede ser útil cuando se detiene en una casilla “Virus” (casillas 11 y 26).
+- Casilla “Virus”: un virus informático ataca al jugador. El jugador tiene que volver a configurar todo y tiene que esperar un turno, a menos que tenga una carta “Antivirus” (por ejemplo obtenida en la casilla 4 o 19). 
+
+<size=24>Notas</size>
+- Casilla 8: el jugador puede tardar más tiempo, tiene que seguir las flechas de las casillas de al lado. 
+- La casilla “salta al 10” permite al jugador ir directamente a la casilla 10.
+- Durante la partida, si el jugador responde correctamente a dos cartas “Challenge” de la misma categoría, recibirá de premio una “Powercard” de esa categoría. 

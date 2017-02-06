@@ -1,0 +1,4 @@
+﻿Gelukzak! Ga een stap vooruit!
+Gelukzak! Ga twee stappen vooruit!
+Pech gehad! Ga een stap achteruit!
+Pech gehad! Ga twee stappen achteruit!

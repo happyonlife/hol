@@ -1,0 +1,16 @@
+﻿T01C01=¡Vamos a chatear!
+C01C01=¡Piénsalo dos veces antes de publicar un mensaje en línea! Cualquier cosa que publiques en Internet se queda allí para siempre. Nunca escribas nada que no dirías a la cara a alguien. 
+C02C01=¡Cuida tu reputación en línea! Presta atención a lo que se dice, se publica y se comparte en la red.
+C03C01=¡Cuidado con las estafas! ¡Los pop-ups o anuncios a menudo son trucos para hacerte gastar dinero en un sólo clic! ¡Ciérralos haciendo un clic en el icono de la cruz inmediatamente!
+T01C02=¡No al ciberacoso!
+C01C02=Si te sientes incomodo por algo que sucede en línea, ¡pide ayuda! ¡Habla de ello con tus padres o un adulto de confianza! Puedes también tener ayuda de estos sitios web y líneas de ayuda como la ‘Fundación Alia2’, n° 6889 25422,correo: lineadeayuda@alia2.org o ‘Protégeles’, www.protegeles.com, n° 91 740 00 19,correo: contacto@protegeles.com.
+C02C02=¡Mantente tranquilo! No respondas a la provocación, guarda los mensajes de amenaza para mostrarlos eventualmente a la justicia en caso de investigación.
+C03C02=¡Si eres testigo de un incidente de (ciber) acoso, actúa! Informa a un adulto de confianza.
+T01C03=¡Juega seguro!
+C01C03=¡Diviértete sin perjudicar a los demás! ¡Se amable y cortés incluso en línea! 
+C02C03=¡Defiende tu privacidad! Para tus juegos en línea, piensa en crear un alias/apodo que sea imposible de relacionar con tu identidad.  
+C03C03=¡Respétate! No dejes que el juego elija por ti. Establece un tiempo de juego y respétalo. 
+T01C04=¡Cuidado!
+C01C04=¡Encontrarte con alguien que sólo conoces a través de la web puede ser peligroso! Háblalo primero con tus padres e ir juntos al encuentro.  
+C02C04=¡Lo que encuentras en internet no es siempre verdad! Visita varios sitios web para comprobar la información. 
+C03C04=¡Cuida tus datos personales! No reveles tu nombre, dirección, número de teléfono y nombre de tu escuela en línea.

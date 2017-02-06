@@ -1,0 +1,16 @@
+﻿T01C01=CHAT MET ONS MEE!
+C01C01=Denk na voor je post! Alles wat je op internet post, blijft er voor altijd achter. Schrijf niets online wat je ook niet in iemands gezicht zou zeggen. 
+C02C01=Denk aan je digitale reputatie! Schenk aandacht aan wat er gezegd, gepost en gedeeld wordt op het web. 
+C03C01=Pas op voor oplichting! Pop-ups of advertenties zijn vaak trucjes om je geld te doen betalen. Sluit deze pagina’s onmiddellijk door op het kruisje te klikken! 
+T01C02=STOP ONLINE PESTEN!
+C01C02=Vraag om hulp wanneer je je slecht voelt bij iets dat gebeurt online! Praat met je ouders of een vertrouwenspersoon! 
+C02C02=Blijf steeds kalm, reageer niet op uitdagende berichten en bewaar bedreigende berichtjes om ze te tonen aan het gerecht in het geval van verder onderzoek. 
+C03C02=Als je getuige bent van (cyber)pesten, reageer! Vertel het aan een te vertrouwen volwassene. 
+T01C03=SPEEL VEILIG!
+C01C03=Maak plezier zonder anderen lastig te vallen! Wees vriendelijk en beleefd, ook online! 
+C02C03=Verdedig je privacy! Verzin een nickname als je online spelletjes speelt. 
+C03C03=Respecteer jezelf! Laat het spel niet voor jou beslissen. Bedenk op voorhand hoe lang je wilt spelen en respecteer dit ook. 
+T01C04=KIJK UIT!
+C01C04=Iemand ontmoeten die je enkel kent van op het web kan gevaarlijk zijn! Bespreek dit eerst met je ouders en laat ze je steeds vergezellen. 
+C02C04=Wat je ziet op internet is niet steeds de waarheid! Bezoek verschillende sites om de informatie te controleren. 
+C03C04=Wees voorzichtig met persoonlijke gegevens! Het is beter om je naam, je adres, je telefoonnummer en de naam van je school te verbergen. 

@@ -1,0 +1,4 @@
+﻿Go one step ahead!
+Go two steps ahead!
+Take one step back!
+Take two steps back!

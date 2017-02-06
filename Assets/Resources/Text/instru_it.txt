@@ -1,0 +1,34 @@
+﻿Un gioco divertente e coinvolgente per bambini e ragazzi dagli 8 anni in su e consigliato anche agli adulti.
+Il gioco promuove le regole d’oro per una navigazione sicura e un corretto utilizzo di internet.
+
+<size=24>Elementi del gioco</size>
+- 1 dado
+- Carte Sfida: carte Resta connesso!, carte Ferma il bullo!, carte In guardia!, carte Gioca sicuro!
+- Carte Anti-virus!
+- Carte Evento: carte Move, carte Lucky
+- Carte Powercards
+- 1 tabellone
+- 6 avatar colorati
+
+<size=24>Scopo del gioco</size>
+Lo scopo del gioco è arrivare per primo alla casella Finish rispondendo correttamente alle varie domande delle carte Sfida.
+
+<size=24>Giocatori</size>
+Il gioco è disponibile in modalità single o multiplayer (massimo due giocatori).  Se disponibile, un adulto può ricoprire il ruolo di moderatore.
+Nota: i giocatori possono essere singoli o squadre formate da 2 o 3 giocatori.
+
+<size=24>Svolgimento del gioco</size>
+- Ciascun giocatore sceglie un avatar colorato che si posiziona su Start.
+- Si gioca a turno.
+- Il primo giocatore inizia il gioco lanciando il dado e l’avatar si muove del numero di caselle indicate dal dado. Il giocatore poi passa il turno al secondo, che procederà nello stesso modo.
+
+<size=24>Se il giocatore si ferma su</size>
+- Una delle caselle contrassegnate da un simbolo delle carte Sfida: Resta connesso!, Blocca il bullo!, In guardia!, Gioca sicuro!, la domanda Sfida viene visualizzata e lo sfidante tenta di rispondere. Se la sua risposta è sbagliata, il giocatore ha una seconda possibilità di risposta. Se anche la seconda risposta è sbagliata, l’avatar si sposta sulla casella STOP a fianco della casella Sfida per riflettere sulla risposta data. Ricomincerà a giocare da questa casella al prossimo turno.
+- Una delle caselle contrassegnate da un simbolo delle carte Evento: Move o Lucky, compare il testodella carta e il giocatore può ricevere un premio o una penalità sotto forma di punti aggiuntivi/sottratti o avanzamento/retrocessione di caselle.
+- Una casella Anti-virus. Congratulazioni! Il giocatore riceve una carta Anti-virus! che potrebbe essere utile nel caso ci si fermi su una casella Virus (casella 11 e 26).
+- Una casella Virus. Il giocatore è vittima di un attacco di virus informatico, deve riconfigurare tutto e perde un turno a meno di essere in possesso di una carta Anti-virus! (casella 4 e 19).
+
+<size=24>Note</size>
+- Nel caso della casella 8, il tempo di permanenza potrebbe essere più lungo, si procede seguendo le frecce delle caselle poste lateralmente.
+- La casella Jump to 10 permette al giocatore di spostarsi alla casella 10.
+- All’interno di una partita, se si risponde correttamente a due domande Sfida della stessa categoria, il giocatore riceve una carta Powercard della categoria corrispondente.

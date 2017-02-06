@@ -1,0 +1,16 @@
+﻿<size=30>Cos'è Happy Onlife?</size>
+
+Questo gioco è nato dalla constatazione che i ragazzi e gli adulti condividono poco le esperienze con le nuove tecnologie. 
+
+Se, da una parte, gli adulti utilizzano questi nuovi strumenti come supporto essenziale al proprio lavoro e alle proprie comunicazioni, sia professionali, sia private, i ragazzi tra gli 8 e 12 anni, nonostante utilizzino internet come fonte d’informazione e supporto indispensabile al proprio apprendimento, trascorrono la maggior parte del proprio tempo online impiegando prodotti ludici. 
+
+L’età della pre-adolescenza è l’età della costruzione dell’identità nel gruppo, che oggi è in piena mutazione con l’arrivo dei social network e della messaggeria istantanea. 
+
+Questo gioco - un misto tra gioco dell’oca e quiz - offre un’ideale attività d’introduzione di circa 20 minuti che favorisce scambi e riflessioni tra ragazzi e adulti sulle esperienza del mondo digitale, sulle strategie d’uso equilibrato, sicuro e rispettoso, delle nuove tecnologie.
+
+Il gioco ha regole semplici ed è facile da mettere in atto. Le sue dinamiche si basano su giochi conosciuti da tutti: il tradizionale gioco dell’oca e domande di tipo quiz.  La presenza di un adulto come moderatore del gioco, anche se non indispensabile, è funzionale al raggiungimento dell’obiettivo di sensibilizzazione e scambio inter-generazionale dell’attività.  Per il resto, basta seguire le regole del gioco e divertirsi mentre si impara.
+
+
+<size=30>Background</size>
+
+Per supportare il programma di lavoro della DG CNET (Commissione Europea) "Better Internet for Kids (BIK)",   i ricercatori del JRC (Centro Comune di Ricerca) studiano il fenomeno del cyberbullismo dal 2011, fenomeno che si sta rapidamente diffondendo attraverso l'uso onnipresente delle tecnologie digitali. Il gruppo di ricerca del JRC ha ideato una serie di strumenti per creare consapevolezza e fiducia in una vita digitale piacevole, equilibrata e sicura, oltre a responsabilizzare bambini, docenti e famiglie alla promozione di strategie contro il cyberbullismo. Version 1.0 (Build 2004)

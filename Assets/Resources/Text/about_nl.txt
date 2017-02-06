@@ -1,0 +1,22 @@
+﻿<size=30>Over Happy Onlife</size>
+
+Happy Onlife is een spel voor kinderen en volwassenen met als doel bij te leren over de risico's en de mogelijkheden van internet. Daarnaast wil het spel goed online gedrag bevorderen. 
+
+Het spel helpt ouders en leerkrachten om concepten rond digitale technologie actief aan te brengen bij kinderen tussen 8 en 12 jaar.
+
+Het is gebaseerd op het traditionele “Slangen en Ladder spel”, gecombineerd met quizvragen over het onderwerp. Quizvragen over het gebruik van internet, sociale netwerken en online spelletjes zijn ontworpen om discussies uit te lokken. Ze geven de moderator de kans om de spelers aan te leren hoe verantwoord en evenwichtig om te gaan met digitale media.
+
+Belangrijke inzichten rond gebruik, overmatig gebruik en misbruik van digitale media, zoals bijvoorbeeld cyberpesten, werden opgenomen in Happy Onlife. Daarnaast reikt het spel ook eenvoudige en duidelijke activiteiten en strategieën van preventie en bemiddeling aan. 
+
+De strategieën en de informatie gebruikt in het spel en de bijhorende brochure zijn geldig op het moment van publicatie, maar kunnen op termijn achterhaald zijn.
+
+Naast deze applicatie is het spel ook beschikbaar als bordspel in het Engels en het Italiaans. Dit bordspel kan worden gedownload en afgedrukt van de JRC Science Hub webpagina (https://ec.europa.eu/jrc/en/scientific-tool/happy-onlife-game-raise-awareness-internet-risks-and-opportunities).
+
+
+Andere taalversies zullen beschikbaar zijn in een later stadium. 
+
+<size=30>Background</size>
+
+Om het DG CNECT werkprogramma "Better Internet for Kids (BIK)" te ondersteunen, hebben JRC onderzoekers sinds 2011 onderzoek verricht naar het fenomeen cyberpesten als een vorm van pesten die snel evolueert door het wijdverbreide gebruik van informatie- en communicatietechnologie. JRC onderzoekers hebben ook materiaal ontwikkeld om het bewustzijn en het vertrouwen te verhogen en om kinderen, gezinnen en scholen aan te zetten evenwichtig en gezond online te leven om zo cyberpesten onder tieners te voorkomen. 
+
+Version 1.0 (Build 2004)

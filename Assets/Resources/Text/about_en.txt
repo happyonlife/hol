@@ -1,0 +1,22 @@
+﻿<size=30>What is Happy Onlife?</size>
+
+Happy Onlife is a game for children and adults, aimed at raising awareness of the risks  and opportunities of internet and promoting the best online practices. 
+
+The game supports parents and teachers in their active mediation in the use of digital  technologies with children aged between 8 and 12. 
+
+It is inspired by the traditional “Snakes and Ladder game”, combined with quiz  questions on the subject. Quiz questions on the use of internet, social networks and online-games are designed to prompt discussion and allow the moderator to drive the players players towards a responsible and balanced way of using digital media.
+
+Happy Onlife presents key messages about children use, overuse, and misuse risks of  digital media such as cyber-bullying, as well as simple and clear activities and strategies  of prevention, mediation or remediation.
+
+The strategies and the information included in the game and the booklet are valid at publication time, but they could eventually become obsolete.
+
+Beside the present application, the game is available as board game in English and  Italian directly downloadable and printable from the JRC Science Hub webpage (https://ec.europa.eu/jrc/en/scientific-tool/happy-onlife-game-raise-awareness-internet-risks-and-opportunities). 
+
+Additional language versions will be available at a later stage.
+
+
+<size=30>Background</size>
+
+In order to support DG CNECT’s work-programme "Better Internet for Kids (BIK)", JRC researchers have been investigating the cyber-bullying phenomenon since 2011 as a form of bullying that is rapidly emerging with the invasive and widespread use of information and communication technologies. JRC researchers have produced materials to raise awareness and trust, and to empower children, families and schools in the attempt to promote a balanced and healthy life online and help prevent cyber-bullying amongst teens.
+
+Version 1.0 (Build 2004)
