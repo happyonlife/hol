@@ -1,16 +1,16 @@
-﻿<size=30>What is Happy Onlife?</size>
+<size=30>What is Happy Onlife?</size>
 
-Happy Onlife is a game for children and adults, aimed at raising awareness of the risks  and opportunities of internet and promoting the best online practices. 
+Happy Onlife is a game for children and adults, aimed at raising awareness about the risks  and opportunities on the internet and promoting the best online practices. 
 
 The game supports parents and teachers in their active mediation in the use of digital  technologies with children aged between 8 and 12. 
 
-It is inspired by the traditional “Snakes and Ladder game”, combined with quiz  questions on the subject. Quiz questions on the use of internet, social networks and online-games are designed to prompt discussion and allow the moderator to drive the players players towards a responsible and balanced way of using digital media.
+It is inspired by the traditional game “Snakes and Ladders”, combined with quiz  questions on the subject. The quiz questions about the use of internet, social networks and online-games are designed to prompt discussion and allow the moderator to drive the players towards responsible and balanced digital media usage.
 
-Happy Onlife presents key messages about children use, overuse, and misuse risks of  digital media such as cyber-bullying, as well as simple and clear activities and strategies  of prevention, mediation or remediation.
+Happy Onlife presents key messages about children's use, overuse, and misuse, online risks such as cyber-bullying, as well as clear and simple activities and strategies for prevention, mediation and remediation.
 
-The strategies and the information included in the game and the booklet are valid at publication time, but they could eventually become obsolete.
+The strategies and the information included in the game and the booklet are valid at the time of publication, but could eventually become obsolete.
 
-Beside the present application, the game is available as board game in English and  Italian directly downloadable and printable from the JRC Science Hub webpage (https://ec.europa.eu/jrc/en/scientific-tool/happy-onlife-game-raise-awareness-internet-risks-and-opportunities). 
+Beside the present application, the game is available as a board game in English and  Italian, directly downloadable and printable from the JRC Science Hub webpage (https://ec.europa.eu/jrc/en/scientific-tool/happy-onlife-game-raise-awareness-internet-risks-and-opportunities). 
 
 Additional language versions will be available at a later stage.
 
