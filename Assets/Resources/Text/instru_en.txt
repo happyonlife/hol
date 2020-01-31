@@ -1,5 +1,5 @@
-﻿This is a funny and intriguing game for children and youngsters aged 8 years or more. It is also recommended for adults.
-The game promotes the golden rules for a safe and proper use of the Internet.
+This is a funny and intriguing game for children and youngsters aged 8 years or more. It is also recommended for adults.
+The game promotes golden rules for safe and proper internet usage.
 
 <size=24>Game elements</size>
 - 1 dice
@@ -7,7 +7,7 @@ The game promotes the golden rules for a safe and proper use of the Internet.
 - Anti-Virus! cards
 - A set of Event cards: Move cards, Lucky cards
 - A set of Powercards summarizing the golden rules for a healthy Happy Onlife
-- 1 board
+- 1 gameboard
 - 6 coloured avatars
 
 <size=24>Aim of the game</size>
@@ -17,12 +17,12 @@ The aim of the game is to be the first to arrive at the Finish square, answering
 The game can be played in single or multiplayer mode (maximum two players). If available, an adult could act as moderator. Note that players can be individuals or teams each consisting of 2 or 3 players.
 
 <size=24>Playing the game</size>
-- Each player chooses a coloured avatar that is placed on the Start square on the board.
+- Each player chooses a coloured avatar and places it on the Start square on the gameboard.
 - Players play in turn.
-- The first player starts the game by rolling the dice and has his/her avatar moved along the squares given by the number on the dice. The player then gives the turn to the second player who will play proceeding in the same way.
+- The first player starts the game by rolling the die and moves his/her avatar along the squares given by the number shown on the die. The player then gives the turn to the second player, who will proceed in the same way.
 
 <size=24>If the player stops on</size>
-- One of the squares marked with the symbol of the Challenge cards: Let’s Chat!, Stop Online Bullying!, Watch-Out!, Play Safely!, the Challenge question is displayed and the challenged player tries to answer. If the answer is wrong, the player has a second chance to reply. If the answer is still wrong the challenged player avatar is placed on the STOP square next to the Challenge square to think over his reply. He/she will go on playing from this square at his/her next turn.
+- One of the squares marked with the symbol of the Challenge cards: Let’s Chat!, Stop Online Bullying!, Watch-Out!, Play Safely!, the Challenge question is displayed and the challenged player tries to answer. If the answer is wrong, the player has a second chance to reply. If the answer is still wrong, the challenged player avatar is placed on the STOP square next to the Challenge square to think over his reply. He/she will go on playing from this square at his/her next turn.
 - One of the squares marked with the symbol of the Event cards: Move and Lucky cards, the Event statement is displayed and the player receives either a reward or a penalty in the form of additional/less points or increased/decreased squares.
 - An Anti-Virus square. Congratulations! The player receives an Anti-Virus! card, which could be useful when stopping on a Virus square (squares 11 and 26).
 - A Virus square, where the player is attacked by a computer virus. He/she has to reconfigure everything and waits a turn, unless he/she has an Anti-Virus! card (e.g. acquired from square 4 or square 19).
@@ -30,4 +30,4 @@ The game can be played in single or multiplayer mode (maximum two players). If a
 <size=24>Note</size>
 - When stopping on square 8, the waiting time could be longer, you have to proceed by following the arrows on the squares next to it.
 - The square Jump to 10 enables the player to move onto square 10.
-- Within one game play, by replying correctly to two Challenge cards of the same category, the player is awarded with a Powercard matching the category.
+- By correctly answering two Challenge cards from the same category within a single game, a player is awarded with a Powercard matching that category.
